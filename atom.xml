@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-17T11:21:09.885Z</updated>
+  <updated>2021-08-19T01:30:23.153Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试基础</title>
+    <link href="http://example.com/2021/08/18/%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80/"/>
+    <id>http://example.com/2021/08/18/%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80/</id>
+    <published>2021-08-18T12:29:53.000Z</published>
+    <updated>2021-08-19T01:30:23.153Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试基础"><a href="#测试基础" class="headerlink" title="测试基础"></a>测试基础</h1><p>V模型</p><p>敏捷模型：</p><h3 id="1、按是否要运行程序进行划分"><a href="#1、按是否要运行程序进行划分" class="headerlink" title="1、按是否要运行程序进行划分"></a>1、按是否要运行程序进行划分</h3><p>  静态测试：是不运行被测试程序而寻找程序代码中可能存在的错误或评估程序代码的过程。（代码走查，桌面检查—看文档，软件界面设计）</p><p>  动态测试：运行被测试程序，输入相应的测试数据，检查运行结果与预期结果的差异，判定执行结果是否符合要求，从而检验程序的正确性、可靠性和有效性，并分析系统运行效率和健壮性等性能。</p><h3 id="2、按是否检查软件的代码程序；"><a href="#2、按是否检查软件的代码程序；" class="headerlink" title="2、按是否检查软件的代码程序；"></a>2、按是否检查软件的代码程序；</h3><p> 黑盒测试: 把软件程序当做一个黑色的盒子，不关心程序内部代码结构，只关心软件功能是否正常；(界面测试，功能测试，安装测试。。。。)</p><p>灰盒测试: 既要关心程序功能，也要查看程序代码实现；</p><p>白盒测试: 只关心程序的内部结构，不关心外部功能。白盒测试：写代码测试代码</p><h3 id="3、冒烟测试"><a href="#3、冒烟测试" class="headerlink" title="3、冒烟测试"></a>3、冒烟测试</h3><p>冒烟测试（Smoke testing）的对象是每一个新编译的需要正式测试的软件版本，目的是确认软件基本功能正常，可以进行后续的正式测试工作。</p><p>对象是每一个新编译：开发人员</p><p>软件基本功能：一般只考虑软件正向功能</p><h3 id="4、回归测试"><a href="#4、回归测试" class="headerlink" title="4、回归测试"></a>4、回归测试</h3><p>在发生修改之后重新测试先前的测试以保证修改的正确性。理论上，对软件的任何新版本，都需要进行回归测试，验证以前发现和修复的错误是否在新软件版本上再现。</p><p>1、验证开发修改好的bug是否正确解决；</p><p>2、验证跟该bug/功能有关联的模块是否引入了新的问题；</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试基础&quot;&gt;&lt;a href=&quot;#测试基础&quot; class=&quot;headerlink&quot; title=&quot;测试基础&quot;&gt;&lt;/a&gt;测试基础&lt;/h1&gt;&lt;p&gt;V模型&lt;/p&gt;
+&lt;p&gt;敏捷模型：&lt;/p&gt;
+&lt;h3 id=&quot;1、按是否要运行程序进行划分&quot;&gt;&lt;a href=&quot;#1、按是否要运</summary>
+      
+    
+    
+    
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Python</title>
@@ -73,7 +99,7 @@
     <link href="http://example.com/2021/07/26/%E8%8A%B1%E6%B5%B7/"/>
     <id>http://example.com/2021/07/26/%E8%8A%B1%E6%B5%B7/</id>
     <published>2021-07-26T12:00:14.000Z</published>
-    <updated>2021-08-11T13:19:04.304Z</updated>
+    <updated>2021-08-19T01:25:15.836Z</updated>
     
     <content type="html"><![CDATA[<p>静止了，所有的花开<br>遥远了，清晰了爱</p><p>天郁闷，爱却更喜欢</p><p>那时候，我不懂</p><p>这叫爱，你喜欢</p><p>站在那窗台，你好久</p><p>都没再来，彩色的</p><p>时间染上空白，是你流的泪晕开</p><p>不要你离开，距离隔不开</p><p>思念变成海，在窗外进不来</p><p>原谅说太快，爱成了阻碍</p><p>手中的风筝放太快，回不来</p><p>不要你离开，回忆划不开</p><p>欠你的宠爱，我在等待重来</p><p>天空仍灿烂，它爱着大海</p><p>情歌被打败，爱已不存在</p><p>你喜欢，站在那窗台</p><p>你好久，都没再来</p><p>彩色的，时间染上空白</p><p>是你流的泪晕开，不要你离开</p><p>距离隔不开，思念变成海</p><p>在窗外进不来，原谅说太快</p><p>爱成了阻碍，手中的风筝放太快</p><p>回不来，不要你离开</p><p>回忆划不开，欠你的宠爱</p><p>我在等待重来，天空仍灿烂</p><p>它爱着大海，情歌被打败</p><p>爱已不存在</p>]]></content>
     

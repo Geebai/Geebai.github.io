@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-19T01:30:23.153Z</updated>
+  <updated>2022-05-07T06:37:37.921Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaSpringboot瑞吉外卖项目总结</title>
+    <link href="http://example.com/2022/05/07/JavaSpringboot%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/"/>
+    <id>http://example.com/2022/05/07/JavaSpringboot%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/</id>
+    <published>2022-05-07T06:00:14.000Z</published>
+    <updated>2022-05-07T06:37:37.921Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Java项目开发技巧"><a href="#Java项目开发技巧" class="headerlink" title="Java项目开发技巧"></a>Java项目开发技巧</h1>]]></content>
+    
+    
+    <summary type="html">Java项目总结</summary>
+    
+    
+    
+    
+    <category term="-Java" scheme="http://example.com/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>测试基础</title>
